@@ -1,0 +1,4 @@
+0 Corn​(Maize) Northern Leaf Blight
+1 Corn​(Maize) Common Rust
+2 Corn​(Maize) Gray Leaf Spot
+3 Corn​(Maize) Healthy

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233139332643",
+    "project_id": "agriwell-6ce03",
+    "storage_bucket": "agriwell-6ce03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233139332643:android:e873b38892e35297657396",
+        "android_client_info": {
+          "package_name": "com.major_project.agri_well"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233139332643-tdppmq0sidb0tv6b727deqk7gf5injrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQczMh_lwJSafnp6WJqfIjGTuoBDG1DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233139332643-tdppmq0sidb0tv6b727deqk7gf5injrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

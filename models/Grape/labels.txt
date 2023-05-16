@@ -1,0 +1,4 @@
+0 Grape Black Rot
+1 Grape Esca​(Black Measles)
+2 Grape Healthy
+3 Grape Leaf Blight​(Isariopsis Leaf Spot)
